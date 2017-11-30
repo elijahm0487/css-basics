@@ -37,16 +37,16 @@ code {
     color: green;
     font-style: italic;
 }
-a:link {
+href:link {
     color: green;
 }
-a:hover {
+href:hover {
     color:red;
 }
-a:active {
+href:active {
     color: blue;
 }
-a:visited {
+href:visited {
     color: black;
 }
 /*Write your CSS rules below!*/
