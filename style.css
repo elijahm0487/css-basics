@@ -34,20 +34,21 @@ code {
     background-color: lightgray;
 }
 #font-practice {
-    color: green;
+    color:green;
     font-style: italic;
 }
-href:link {
-    color: green;
+a:link {
+    color:green;
 }
-href:hover {
-    color:red;
-}
-href:active {
-    color: blue;
-}
-href:visited {
+a:visited {
     color: black;
 }
+a:hover {
+    color:red;
+}
+a:active {
+    color: blue;
+}
+
 /*Write your CSS rules below!*/
 
